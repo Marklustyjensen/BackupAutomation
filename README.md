@@ -12,8 +12,8 @@ A robust and user-friendly tool designed to automate the backup process for crit
 
 ## Installation
 
-'''bash
-git clone https://github.com/Marklustyjensen/BackupAutomation.git
+```bash
+[git clone https://github.com/Marklustyjensen/BackupAutomation.git]
 
 ## Usage
 
