@@ -14,6 +14,7 @@ A robust and user-friendly tool designed to automate the backup process for crit
 
 ```bash
 [git clone https://github.com/Marklustyjensen/BackupAutomation.git]
+```
 
 ## Usage
 
@@ -26,6 +27,7 @@ A robust and user-friendly tool designed to automate the backup process for crit
    Execute the following command:  
    ```bash
    [Specify command, e.g., python backup.py]
+   ```
 
 3. **Monitor the logs for detailed insights into the backup process.**:
 
