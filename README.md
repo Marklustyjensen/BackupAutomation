@@ -14,7 +14,6 @@ A robust and user-friendly tool designed to automate the backup process for crit
 
 '''bash
 git clone https://github.com/Marklustyjensen/BackupAutomation.git
-'''
 
 ## Usage
 
